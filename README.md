@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ishvi-s
+- 👋 Hi, I’m @Riya-s
 - 👀 I’m interested in ...Artificial Intelliegence
 - 🌱 I’m currently learning ...Python and ml models
 - 💞️ I’m looking to collaborate on ...Tech based in ai sector
